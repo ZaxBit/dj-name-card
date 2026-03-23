@@ -75,3 +75,14 @@ Here's what I want:
 
 Use GSAP for all animations. Make it feel like a real portfolio piece, not a template.
 ```
+
+---
+
+## Share your results!  
+
+Share it with me in #design-output or #claude-code-community!
+
+Here's mine!  
+![Adobe Express - dj-card-demo](https://github.com/user-attachments/assets/5aae4000-8c6f-4a2a-a38a-92a827056c36)
+
+
