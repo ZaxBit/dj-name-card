@@ -1,4 +1,4 @@
-# Name Card Workshop
+# Claude Code Design Jam - Name Card Workshop
 
 [Workshop Deck](https://www.figma.com/deck/w5MCp6cYHFYFGV43jeI37e) | 
 [Workshop Recording](https://drive.google.com/file/d/1t7arONxcT845hxZn5nqMGUMMX_ZGXYKm/view)
